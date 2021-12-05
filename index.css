@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    background-color: rgb(223, 238, 238);
+  }
+  
+  #head {
+    font-size: 50px;
+    font-family: arial;
+    background-color: rgba(0, 0, 255, 0.3);
+    color: #fff;
+    text-shadow: 2px 2px 2px black;
+    border-radius: 50px;
+  }
+  
+  #error {
+    color: red;
+  }
+  
+  #submit {
+    font-size : 20px;
+    font-family : arial;
+    background-color : rgba(0,0,255,0.7);
+    color : #fff;
+  }
+
+  #error1{
+    color : green;
+  }
+  
+  .container {
+    border : 5px solid blue;
+    border-radius : 50px;
+    margin : auto;
+    width : 400px;
+    padding : 30px;
+    font-size : 20px;
+    font-family : arial;
+    background-color:white;
+  }
+  
+  .input {
+    font-size : 20px;
+  }
+  
